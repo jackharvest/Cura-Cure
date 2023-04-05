@@ -48,5 +48,8 @@
 
 They've been in appdata and other locations in the past. Taking bets on where they move it to next.
 
+# A Word of Caution
+- This may be obvious, but I'll spell it out: Your nozzle might run into clips and such with this removed, should it choose to return to home or simply print in the location of one. So, be mindful of your personal clip locations.
+
 # Version
 1.0.0 - 4/5/2023 - Initial Release
