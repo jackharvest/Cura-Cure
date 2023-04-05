@@ -14,6 +14,31 @@
 
 4. If this is the first time you are running a script, you may see a warning message about the execution policy. If you trust the source of the script and want to allow it to run, you can temporarily change the execution policy by typing `Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process` and pressing Enter.
 
+# What the heck does it do?
+- Click the "CuraCure.ps1" file above to view the code. It has plenty of comments (lines that start with a pound sign) to explain each step.
+
+# Which printers does it fix the annoying Machine Disallowed Areas on?
+- Currently, of the 605 total printers supported at the time of writing, the following 19 printers have this issue (and gets solved by CuraCure):
+anycubic_kossel.def.json
+anycubic_kossel_linear_plus.def.json
+cartesio.def.json
+creality_ender3.def.json
+deltacomb_dc20dual.def.json
+dxu.def.json
+dxu_umo.def.json
+dxu_umo_dual.def.json
+lulzbot_mini_2_se.def.json
+lulzbot_mini_2_sl.def.json
+Mark2_for_Ultimaker2.def.json
+structur3d_discov3ry1_complete_um2plus.def.json
+ultimaker2.def.json
+ultimaker2_go.def.json
+ultimaker2_plus.def.json
+ultimaker2_plus_connect.def.json
+ultimaker3.def.json
+vertex_k8400.def.json
+vertex_k8400_dual.def.json
+
 # Notes
 - As of Cura 5.3.0, the Ultimaker team has once again moved the json files that this script modifies.
 - They are located in C:\Program Files\UltiMaker Cura 5.X.0\share\cura\resources\definitions
