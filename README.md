@@ -19,9 +19,9 @@
 
 # Which printers does it fix the annoying Machine Disallowed Areas on?
 - Currently, of the 605 total printers supported at the time of writing, the following 19 printers have this issue (and gets solved by CuraCure):
-anycubic_kossel.def.json
-anycubic_kossel_linear_plus.def.json
-cartesio.def.json
+-- anycubic_kossel.def.json
+-- anycubic_kossel_linear_plus.def.json
+-- cartesio.def.json
 creality_ender3.def.json
 deltacomb_dc20dual.def.json
 dxu.def.json
