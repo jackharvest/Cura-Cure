@@ -19,25 +19,26 @@
 
 # Which printers does it fix the annoying Machine Disallowed Areas on?
 - Currently, of the 605 total printers supported at the time of writing, the following 19 printers have this issue (and gets solved by CuraCure):
-> anycubic_kossel.def.json
-> anycubic_kossel_linear_plus.def.json
-cartesio.def.json
-creality_ender3.def.json
-deltacomb_dc20dual.def.json
-dxu.def.json
-dxu_umo.def.json
-dxu_umo_dual.def.json
-lulzbot_mini_2_se.def.json
-lulzbot_mini_2_sl.def.json
-Mark2_for_Ultimaker2.def.json
-structur3d_discov3ry1_complete_um2plus.def.json
-ultimaker2.def.json
-ultimaker2_go.def.json
-ultimaker2_plus.def.json
-ultimaker2_plus_connect.def.json
-ultimaker3.def.json
-vertex_k8400.def.json
-vertex_k8400_dual.def.json
+> 
+- anycubic_kossel.def.json
+- anycubic_kossel_linear_plus.def.json
+- cartesio.def.json
+- creality_ender3.def.json
+- deltacomb_dc20dual.def.json
+- dxu.def.json
+- dxu_umo.def.json
+- dxu_umo_dual.def.json
+- lulzbot_mini_2_se.def.json
+- lulzbot_mini_2_sl.def.json
+- Mark2_for_Ultimaker2.def.json
+- structur3d_discov3ry1_complete_um2plus.def.json
+- ultimaker2.def.json
+- ultimaker2_go.def.json
+- ultimaker2_plus.def.json
+- ultimaker2_plus_connect.def.json
+- ultimaker3.def.json
+- vertex_k8400.def.json
+- vertex_k8400_dual.def.json
 
 # Notes
 - As of Cura 5.3.0, the Ultimaker team has once again moved the json files that this script modifies.
