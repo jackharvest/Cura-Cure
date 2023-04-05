@@ -40,6 +40,8 @@
 >- vertex_k8400.def.json
 >- vertex_k8400_dual.def.json
 
+- The script is written dynamically though, so, if new printers are added, or printers suddenly have Machine Disallowed Areas in their definition files, this will fix it. Just run once per Cura upgrade.
+
 # Notes
 - As of Cura 5.3.0, the Ultimaker team has once again moved the json files that this script modifies.
 - They are located in C:\Program Files\UltiMaker Cura 5.X.0\share\cura\resources\definitions
